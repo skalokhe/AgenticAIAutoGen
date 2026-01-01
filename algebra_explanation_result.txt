@@ -1,0 +1,15 @@
+To solve the expression 7 * 9 + 65 + 122 - 78 / 4, we follow the order of operations (PEMDAS/BODMAS):
+
+1. **Multiplication and Division first:**
+   - 7 * 9 = 63
+   - 78 / 4 = 19.5
+
+2. Substitute the results back into the expression:
+   - 63 + 65 + 122 - 19.5
+
+3. **Perform Addition and Subtraction from left to right:**
+   - 63 + 65 = 128
+   - 128 + 122 = 250
+   - 250 - 19.5 = 230.5
+
+Therefore, the result of the expression 7 * 9 + 65 + 122 - 78 / 4 is 230.5.
